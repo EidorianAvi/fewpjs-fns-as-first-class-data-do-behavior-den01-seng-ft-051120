@@ -10,6 +10,7 @@ function handleClick(e) {
 /* End Given Code, don't edit above here...*/
 
 /* Write your implementation of greet() */
+<<<<<<< HEAD
 
 function greet(string) {
 
@@ -25,6 +26,10 @@ function greet(string) {
     return ("Good Evening")
   }
 
+=======
+function greet(string) {
+  console.log(string)
+>>>>>>> c19131bf7c6ef53deab71635471470f2fac4f029
 }
 
 /* Write your implementation of displayMessage() */
