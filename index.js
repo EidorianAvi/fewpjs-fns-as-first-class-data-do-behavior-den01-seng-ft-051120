@@ -26,7 +26,7 @@ function greet(string) {
     return ("Good Evening")
   }
 
-=======
+
 function greet(string) {
   console.log(string)
 >>>>>>> c19131bf7c6ef53deab71635471470f2fac4f029
